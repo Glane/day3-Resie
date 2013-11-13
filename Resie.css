@@ -1,0 +1,76 @@
+body {
+	display: inline;
+}
+.column {
+	background-color: #222423;
+	float:left;
+	width: 18%;
+	height: 700px;
+	margin-right: 10px;
+	box-sizing: border-box;
+}
+.vertical {
+	text-align: center;
+}
+#logo {
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.main {
+	padding: 5px;
+	color: white;
+}
+.social {
+	margin-top: 275px;
+}
+#design {
+	text-align: center;
+	color: DarkGray;
+}
+span {
+	color: #1A7A6A;
+	font-weight: bold;
+}
+.pics {
+	width: 700px;
+	height: 600px;
+	display: inline-block;
+}
+.photo {
+	height: 175px;
+	width: 250px;
+	float: left;
+	margin: 5px 10px;
+}
+.minor {
+	display: inline-block;
+	margin-left: 10px;
+	margin-top: 30px;
+	margin-bottom: 10px;
+	color: #9C0E1C;
+	font-family: sans-serif;
+	font-size: 15px;
+}
+.minor:hover {
+	background-color: #9C0E1C;
+	color: white;
+	padding: 5px;
+	border-radius: 5px;
+}
+.portfolio {
+	margin-left: 10px;
+	color: #9C0E1C;
+	font-size: 30px;
+	display: inline;
+	font-family: sans-serif;
+	font-weight: lighter;
+}
+.body {
+	box-sizing: border-box;
+}
+.main select {
+	background-color: #222423;
+	color: white;
+	-webkit-appearance: none;
+}
